@@ -7,5 +7,7 @@ This project uses HTML for structure, CSS for styling, Leaflet.js to create the 
 Contents:
 
 index.html: Contains the basic structure of the webpage.
+
 style.css: Provides styling for the map and legend.
+
 logic.js: Includes the JavaScript code to fetch data, process it, and render the map with Leaflet.
